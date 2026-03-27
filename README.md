@@ -1,17 +1,31 @@
-# cielo_obs
+# 🌌 Cielo Obs
 
-A new Flutter project.
+Aplicación móvil para registrar observaciones del cielo offline.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Registro de observaciones
+- Foto y audio
+- GPS 
+- Filtros
+- Perfil del usuario
+- Borrado seguro
+- Funciona sin internet
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologías
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- SQLite
+- image_picker
+- geolocator
+- record
+- audioplayers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Instalación
+
+Descargar APK y ejecutar en Android.
+Link APK: https://drive.google.com/file/d/1FmJTnXLX4jFecenmgwhuZt1Mn6ByhDxo/view?usp=sharing
+
+## 📍 Autor
+
+Sebastian Pérez
