@@ -23,7 +23,7 @@ Aplicación móvil para registrar observaciones del cielo offline.
 
 ## 📦 Instalación
 
-Descargar APK y ejecutar en Android.
+Descargar APK y ejecutar en Android.  
 Link APK: https://drive.google.com/file/d/1FmJTnXLX4jFecenmgwhuZt1Mn6ByhDxo/view?usp=sharing
 
 ## 📍 Autor
