@@ -28,4 +28,4 @@ Link APK: https://drive.google.com/file/d/1FmJTnXLX4jFecenmgwhuZt1Mn6ByhDxo/view
 
 ## 📍 Autor
 
-Sebastian Pérez
+Sebastian Pérez - 20231063
